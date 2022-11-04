@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "339419362927",
+    "firebase_url": "https://final-project-2---kelompok-8-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "final-project-2---kelompok-8",
+    "storage_bucket": "final-project-2---kelompok-8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339419362927:android:67d1825f4d84e6457e3f9a",
+        "android_client_info": {
+          "package_name": "com.k8.finalproject2_kelompok8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339419362927-orfbvnru81ioaletp9637f61v0gsqfgf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.k8.finalproject2_kelompok8",
+            "certificate_hash": "38219fa4a1086fae615f088ce1567d0a3b2953a0"
+          }
+        },
+        {
+          "client_id": "339419362927-iughq1k82hmc0qf1830uvba9kineot6f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxvpecjJzkOF5Lmxsvf8zMnUge6zMbqIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339419362927-iughq1k82hmc0qf1830uvba9kineot6f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
